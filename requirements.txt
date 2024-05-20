@@ -4,3 +4,4 @@ seaborn==0.12.2
 streamlit==1.32.2
 matplotlib==3.8.0
 numpy==1.26.4
+wordcloud==1.9.3
